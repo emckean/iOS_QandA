@@ -18,6 +18,7 @@
 		8B26473B16BB6CCF003C8526 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 8B26473A16BB6CCF003C8526 /* Default-568h@2x.png */; };
 		8B26473E16BB6CCF003C8526 /* QAViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B26473D16BB6CCF003C8526 /* QAViewController.m */; };
 		8B26474116BB6CCF003C8526 /* QAViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8B26473F16BB6CCF003C8526 /* QAViewController.xib */; };
+		8B26474816BB78E9003C8526 /* questionsandanswers.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8B26474716BB78E9003C8526 /* questionsandanswers.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,7 @@
 		8B26473C16BB6CCF003C8526 /* QAViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QAViewController.h; sourceTree = "<group>"; };
 		8B26473D16BB6CCF003C8526 /* QAViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QAViewController.m; sourceTree = "<group>"; };
 		8B26474016BB6CCF003C8526 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/QAViewController.xib; sourceTree = "<group>"; };
+		8B26474716BB78E9003C8526 /* questionsandanswers.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = questionsandanswers.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				8B26473316BB6CCF003C8526 /* QAAppDelegate.h */,
 				8B26473416BB6CCF003C8526 /* QAAppDelegate.m */,
 				8B26473C16BB6CCF003C8526 /* QAViewController.h */,
+				8B26474716BB78E9003C8526 /* questionsandanswers.plist */,
 				8B26473D16BB6CCF003C8526 /* QAViewController.m */,
 				8B26473F16BB6CCF003C8526 /* QAViewController.xib */,
 				8B26472B16BB6CCF003C8526 /* Supporting Files */,
@@ -164,6 +167,7 @@
 				8B26473916BB6CCF003C8526 /* Default@2x.png in Resources */,
 				8B26473B16BB6CCF003C8526 /* Default-568h@2x.png in Resources */,
 				8B26474116BB6CCF003C8526 /* QAViewController.xib in Resources */,
+				8B26474816BB78E9003C8526 /* questionsandanswers.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

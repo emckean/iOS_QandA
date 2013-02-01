@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>question</key>
+		<string>Who wrote &quot;The Four Million&quot;?</string>
+		<key>answer</key>
+		<string>O. Henry</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>How much wood could a woodchuck chuck if a woodchuck could chuck wood?</string>
+		<key>answer</key>
+		<string>Enough to make a whim-wham for a goose&apos;s bridle</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>All good?</string>
+		<key>answer</key>
+		<string>It&apos;s good.</string>
+	</dict>
+</array>
+</plist>
